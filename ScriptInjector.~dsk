@@ -1,0 +1,233 @@
+[Closed Files]
+File_0=SourceModule,'c:\program files\borland\delphi7\source\rtl\Win\Windows.pas',0,1,1,1,12,0,0
+File_1=SourceModule,'c:\program files\borland\delphi7\Lib\MemoryInspector.pas',0,1,40,64,60,0,0
+File_2=SourceModule,'c:\program files\borland\delphi7\Imports\MemUtils.pas',0,1,25,1,9,0,0
+File_3=SourceModule,'C:\Program Files\Borland\Delphi7\Projects\MemReader\Unit1.pas',0,1,133,19,141,1,0
+File_4=SourceModule,'C:\Program Files\Borland\Delphi7\Projects\NpcPosMaker\uNpcPosMaker.pas',0,1,1472,70,1482,1,0
+File_5=SourceModule,'c:\program files\borland\delphi7\Imports\RotImg.pas',0,1,1,20,11,0,0
+File_6=SourceModule,'H:\Distrib\Programming\Delphi7\Components\TPNGImage\pngimage\pngimage.pas',0,1,715,1,1,0,0
+File_7=SourceModule,'C:\DOCUME~1\Family\LOCALS~1\Temp\_tc\PNGImage\pngimage.pas',0,1,1,1,1,0,0
+File_8=SourceModule,'C:\Program Files\Borland\Delphi7\Projects\Listener\uMain.pas',0,1,231,9,236,1,1
+
+[Modules]
+Module0=C:\Program Files\Borland\Delphi7\Projects\ScriptInjector\ScriptInjector.dpr
+Module1=C:\Program Files\Borland\Delphi7\Imports\VBScript_RegExp_55_TLB.pas
+Module2=c:\program files\borland\delphi7\source\rtl\Win\ActiveX.pas
+Module3=c:\program files\borland\delphi7\Lib\Encoding.pas
+Module4=c:\program files\borland\delphi7\Lib\StringListUnicodeSupport.pas
+Count=5
+EditWindowCount=1
+
+[C:\Program Files\Borland\Delphi7\Projects\ScriptInjector\ScriptInjector.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi7\Imports\VBScript_RegExp_55_TLB.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[c:\program files\borland\delphi7\source\rtl\Win\ActiveX.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[c:\program files\borland\delphi7\Lib\Encoding.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[c:\program files\borland\delphi7\Lib\StringListUnicodeSupport.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi7\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=5
+CurrentView=0
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=0
+State=0
+Left=199
+Top=126
+Width=1302
+Height=682
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1294
+ClientHeight=655
+LeftPanelSize=0
+RightPanelSize=0
+BottomPanelSize=0
+
+[View0]
+Module=C:\Program Files\Borland\Delphi7\Projects\ScriptInjector\ScriptInjector.dpr
+CursorX=7
+CursorY=25
+TopLine=316
+LeftCol=1
+
+[View1]
+Module=c:\program files\borland\delphi7\Lib\StringListUnicodeSupport.pas
+CursorX=1
+CursorY=30
+TopLine=14
+LeftCol=1
+
+[View2]
+Module=c:\program files\borland\delphi7\Lib\Encoding.pas
+CursorX=1
+CursorY=833
+TopLine=817
+LeftCol=1
+
+[View3]
+Module=c:\program files\borland\delphi7\source\rtl\Win\ActiveX.pas
+CursorX=1
+CursorY=11
+TopLine=1
+LeftCol=1
+
+[View4]
+Module=C:\Program Files\Borland\Delphi7\Imports\VBScript_RegExp_55_TLB.pas
+CursorX=1
+CursorY=519
+TopLine=500
+LeftCol=1
+
+[Watches]
+Count=1
+Watch0='WaitObj',256,0,18,1,0,'Watches'
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1920
+Height=105
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1912
+ClientHeight=78
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=737
+Width=189
+Height=316
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=181
+ClientHeight=292
+TBDockHeight=413
+LRDockWidth=181
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=
+ExpandedItems=
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=105
+Width=190
+Height=316
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=182
+ClientHeight=292
+TBDockHeight=354
+LRDockWidth=190
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=204
+Top=162
+Width=140
+Height=305
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=132
+ClientHeight=281
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=198
+Top=107
+Width=443
+Height=85
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=435
+ClientHeight=61
+TBDockHeight=85
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
